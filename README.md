@@ -36,6 +36,10 @@ In the event that the postgres use the following Homebrew command if on a mac
 
 On windows, see the following page: https://www.postgresql.org/download/windows/
 
+When complete you will need to have a postgres instance initialized, the following link can provide assitance if necessary.
+
+https://www.codementor.io/@engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
+
 Getting Started
 ---------------
 
