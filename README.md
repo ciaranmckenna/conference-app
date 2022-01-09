@@ -36,9 +36,14 @@ In the event that the postgres use the following Homebrew command if on a mac
 
 On windows, see the following page: https://www.postgresql.org/download/windows/
 
-### Running user-app
+Getting Started
+---------------
 
+### Running conference-app
 
+From the terminal run the following `./conference-demo-0.0.1-SNAPSHOT.jar`
+
+From Intellij right click and run `ConferenceDemoApplication.java` 
 
 Authors
 -------
